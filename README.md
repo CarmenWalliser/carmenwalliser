@@ -1,4 +1,4 @@
-## About Carmen 👋
+## About me: 👋
 
 I'm Carmen, a passionate and driven student at Belgium Campus iTversity, currently pursuing a Bachelor's degree in Software Engineering. I enjoy exploring how technology can solve real-world problems and am constantly expanding my skills in both software and system development.
 
