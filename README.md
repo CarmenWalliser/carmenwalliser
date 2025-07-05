@@ -14,6 +14,7 @@ I'm Carmen, a passionate and driven student at Belgium Campus iTversity, current
 
 
 ##🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmen-walliser-013910334/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](carmenwalliser2004@gmail.com)
 
