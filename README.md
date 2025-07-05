@@ -13,7 +13,7 @@ I'm Carmen, a passionate and driven student at Belgium Campus iTversity, current
 - ⚡ Fun fact: I’ve worked on a joint hydroponics and aquaponics system with students from Penn State University, developing the software infrastructure side using Node-RED and web technologies.
 
 
-##🌐 Socials:
+### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmen-walliser-013910334/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](carmenwalliser2004@gmail.com)
