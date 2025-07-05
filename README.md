@@ -13,3 +13,29 @@ I'm Carmen, a passionate and driven student at Belgium Campus iTversity, current
 - ⚡ Fun fact: I’ve worked on a joint hydroponics and aquaponics system with students from Penn State University, developing the software infrastructure side using Node-RED and web technologies.
 
 
+##🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmen-walliser-013910334/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](carmenwalliser2004@gmail.com)
+
+
+### 💻 Tech Stack:
+
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+
+### 📊 GitHub Stats
+
+![Carmen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)](https://git.io/streak-stats)
