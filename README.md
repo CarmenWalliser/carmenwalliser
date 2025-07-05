@@ -36,7 +36,5 @@ I'm Carmen, a passionate and driven student at Belgium Campus iTversity, current
 
 ![Carmen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarmenWalliser&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarmenWalliser&layout=compact&theme=tokyonight)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarmenWalliser&theme=tokyonight)](https://git.io/streak-stats)
 
