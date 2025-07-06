@@ -1,6 +1,6 @@
 ## Hi there: 👋
 
-I'm Carmen, a passionate and driven student at Belgium Campus iTversity, currently pursuing a Bachelor's degree in Software Engineering. I enjoy exploring how technology can solve real-world problems and am constantly expanding my skills in both software and system development.
+I am Carmen, a motivated Software Engineering student with a strong interest in technology and its power to solve real-world problems. I’m constantly learning and enjoy taking on new challenges that push me to grow both technically and creatively. I enjoy exploring how technology can solve real-world problems and am continually expanding my skills in both software and system development.
 
 -  🔭 I’m currently not working on a specific project. Still, I’m actively sharpening my skills and contributing to collaborative academic projects, especially those involving IoT, cloud computing, and data-driven web applications.
 
